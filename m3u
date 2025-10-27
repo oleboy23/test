@@ -1,0 +1,302 @@
+#EXTM3U
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-ch3.png",3HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_3HD_720p/3HDChunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-ch5.png",5HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch7.png",7HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-ch8.png",8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_8HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-mcot.png",MCOT
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/sd-nbt.png",NBT_HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_NBTSD_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tpbs.png",ThaiPBS
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/live
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png",THAIRATH_TV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-pptv.png",PPTV_HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-amarin.png",AMARINTV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-gmmchannel.png",GMMchannel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_GMM_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-gmmone.png",ONE_HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-workpoint.png",workpoint
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-tnn24.png",TNN24
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-mono.png",MONO29
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.monomax.me/livetv
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-nation.png",Nation_TV
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_NATION_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="DIGITAL" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-24u.png",True4U
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn-m-net.dstv.com/images/Channel/2022/05/24/925335/16/1653489504-52_M1.webp",Movies1
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.64.96:8007/IZAA
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn-m-net.dstv.com/images/Channel/2022/05/25/925715/16/1653489834-52_M2.webp",Movies2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.64.96:8007/H-Channel
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-321-5694.webp",Series
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.64.96:8007/PING
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-860-5694.webp",Series2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.64.96:8007/SERIES
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/10Tnrs8.png",ANIME
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://49.0.64.96:8007/Cartoonumi
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",ch8_thailand
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",Boomerang
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",Cool_Channel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cool-channel.com/
+https://live.cool-channel.com/cool/live-720P.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://e7.pngegg.com/pngimages/351/644/png-clipart-boom-illustration-boom-youtube-television-channel-canal-boom-boom-text-logo-thumbnail.png",Boomanime
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%26flix_logo.png/250px-%26flix_logo.png",,&flix 
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://oxolive.com/live/and-flix-hd
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://oxolive.com/live/and-flix-hd/
+https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://m.media-amazon.com/images/I/61Rqt3thwTL.png",AMC+
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://oxolive.com/live/amc-plus/
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://oxolive.com/live/amc-plus/
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",AMC
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Paramount_Movie_Channel.svg/revision/latest/scale-to-width-down/300?cb=20210629162200",Paramount Movie Channel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png",HBO
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/290px-Rock_Action.png",Rock Action
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://stmify.com/wp-content/uploads/2024/11/322-s-150x84.webp",star movies 
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://oxolive.com/live/star-movies/
+https://webtvstream.bhtelecom.ba/star_movies.m3u8
+ 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein1.jpg",BEIN SPORT HD 1
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=18
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein2.jpg",BEIN SPORT HD 2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=19
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein3.jpg",BEIN SPORT HD 3
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=20
+https://www.livedoomovies.com/02_epl3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein4.jpg",BEIN SPORT HD 4
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=21
+https://www.livedoomovies.com/02_epl4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein05.jpg",BEIN SPORT HD 5
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=22
+https://www.livedoomovies.com/02_epl5_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein06.jpg",BEIN SPORT HD 6
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=23
+https://www.livedoomovies.com/02_epl6_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein07.jpg",BEIN SPORT HD 7
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=24
+https://www.livedoomovies.com/02_epl7_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/epl-bein08.jpg",BEIN SPORT HD 8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=25
+https://www.livedoomovies.com/02_epl8_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/SPOTV1.jpg",SPOTV HD1
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=28
+https://www.livedoomovies.com/SPOTV01_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/SPOTV2.jpg",SPOTV HD2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=29
+https://www.livedoomovies.com/SPOTV02_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TSportsChannel.png",T Sports Channel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=189
+https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TrueSport01.jpg",TRUE SPORT 1
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=32
+https://www.livedoomovies.com/02_sport1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TrueSport2.jpg",TRUE SPORT 2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=33
+https://www.livedoomovies.com/02_sport2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TrueSport3.jpg",TRUE SPORT 3
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=34
+https://www.livedoomovies.com/02_sport3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TrueSport4.jpg",TRUE SPORT 4
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=35
+https://www.livedoomovies.com/02_sport4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TrueSport5.jpg",TRUE SPORT 5
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=36
+https://www.livedoomovies.com/02_sport5_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/TrueSport7.jpg",TRUE SPORT 7
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/?r=tv_view&id=38
+https://www.livedoomovies.com/02_sport7_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media-mvtv.imgix.net/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png",MV GO SPORT
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_3
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_4
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_5
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_6
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_7
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="SPORTS",PlaysportsFootball_8
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8
